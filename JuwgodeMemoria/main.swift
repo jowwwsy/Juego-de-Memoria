@@ -8,9 +8,6 @@
 
 import Foundation
 
-//mudando
-
-// funciona porra!
 
 var numeros = 0...100
 
@@ -27,9 +24,6 @@ for numero in numeros{
     else if numero%2 != 0 && numero >= 30 && numero <= 40 && numero%5 == 0{
         print ("\(numero)\t\("IMPAR, BINGO E VIVA SWIFT")")
     }
-        
-        //teste
-        
     else if numero%2 == 0 && (numero >= 30 && numero <= 40){
         print ("\(numero)\t\("PAR e VIVA SWIFT")")
     }
