@@ -88,6 +88,9 @@
 		E3A26E4F1D7D15C9006A4855 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					New,
+				);
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "Joselyne Banegas";
